@@ -1,2 +1,2 @@
-this is my devops dem
-am practicing project gito
+this is my devops demo
+am practicing project git
